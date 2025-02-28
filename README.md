@@ -1,8 +1,22 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! This is a showcase of my work, experience, and the technologies I use. Built with React and styled with a sleek, modern design, this site is meant to highlight my skills and projects in a clear and engaging way.
 
-Currently, two official plugins are available:
+## Features
+- **Navbar** – Quick navigation to different sections
+- **Hero** – An introduction to who I am and what I do
+- **Technologies** – The tools and frameworks I work with
+- **Experience** – My professional background and relevant work
+- **Projects** – A collection of my best work
+- **Contact** – A way to reach out and connect
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **React** – For building the UI
+- **Tailwind CSS** – For clean and responsive styling
+
+## How To See The Project
+Go to: https://saparshayan.vercel.app 
+
+## Get in Touch
+Feel free to reach out via the contact section in the portfolio. Thanks for stopping by! 🚀
+
