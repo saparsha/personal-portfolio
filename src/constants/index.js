@@ -5,6 +5,13 @@ export const HERO_CONTENT = `I love building things, whether it's coding an AI p
 
 export const EXPERIENCES = [
   {
+    year: "September 2024 - February 2025",
+    role: "Software Engineer",
+    company: "Stealth",
+    description: `Developed and integrated an AI chat assistant using LiveKit and OpenAI’s GPT, boosting user engagement by 25%. Contributed to full-stack development and QA efforts, reducing post-release defects by 15%. Led cold outreach campaigns, increasing beta testing participation by 30% and collecting key user insights.`,
+    technologies: ["Python", "LiveKit", "ChatGPT", "JavaScript", "Docker"],
+  },
+  {
     year: "June 2023 - August 2023",
     role: "Full Stack Software Engineer Intern",
     company: "Sovrn",
